@@ -1,0 +1,12 @@
+.M{
+    color: blue;
+}
+
+.tile{
+    position: inline-block; 
+    border: 3px #000 solid; 
+    background: #aaa;
+    width: unset;
+    display: inline-block;
+    margin-top: 8px;
+}
