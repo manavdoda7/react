@@ -15,6 +15,3 @@ export const books = [
   export const pressed = () => {
     alert('title');
   };
-  export const pressed2 = (details) => {
-    alert(details.title);
-  }
